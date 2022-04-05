@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mobile-Module-1B/1.0.0": {
+        "runtime": {
+          "Mobile-Module-1B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mobile-Module-1B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

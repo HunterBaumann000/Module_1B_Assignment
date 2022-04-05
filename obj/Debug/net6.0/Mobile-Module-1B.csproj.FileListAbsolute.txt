@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Mobile-Module-1B\bin\Debug\net6.0\Mobile-Module-1B.exe
+C:\Users\Owner\Desktop\Mobile-Module-1B\bin\Debug\net6.0\Mobile-Module-1B.deps.json
+C:\Users\Owner\Desktop\Mobile-Module-1B\bin\Debug\net6.0\Mobile-Module-1B.runtimeconfig.json
+C:\Users\Owner\Desktop\Mobile-Module-1B\bin\Debug\net6.0\Mobile-Module-1B.dll
+C:\Users\Owner\Desktop\Mobile-Module-1B\bin\Debug\net6.0\Mobile-Module-1B.pdb
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\Mobile-Module-1B.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\Mobile-Module-1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\Mobile-Module-1B.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\Mobile-Module-1B.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\Mobile-Module-1B.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\Mobile-Module-1B.dll
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\refint\Mobile-Module-1B.dll
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\Mobile-Module-1B.pdb
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\Mobile-Module-1B.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Mobile-Module-1B\obj\Debug\net6.0\ref\Mobile-Module-1B.dll
